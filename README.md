@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Harpreet%20Singh&center=true&width=800&height=120&color=FFFFFF&size=45&pause=1000&speed=50&background=F59E0B,9333EA&vCenter=true" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?
+    lines=Frontend%20Developer;Data%20Analyst;AI%20Enthusiast;C%2B%2B%20Programmer&center=true&width=400&height=50&color=00FF00&size=25&pause=1000&speed=50&background=00000000&vCenter=true" />
+</p>
+
 # 💫 About Me:
 Hi 👋 I’m Harpreet Singh, a Computer Science Engineering student specializing in Big Data Analytics at SRM Institute of Science and Technology, Kattankulathur, working on mission-critical data science and AI projects—from ML model training to real-world problem solving—with a strong focus on reliability, performance, and impact.<br><br>🔭 I’m currently working on data analytics and AI-driven projects, focusing on building reliable pipelines, meaningful insights, and scalable solutions through hands-on implementation.<br><br>🤝 I’m looking to collaborate on data analytics, machine learning, and AI-driven projects, especially those involving real-world datasets, automation, and meaningful insights.<br><br>🌱 I’m currently learning advanced data analytics, machine learning fundamentals, and improving my problem-solving skills in C++ and Python.<br><br>💬 Ask me about Python, data analytics, basic machine learning concepts, hackathon-based development, or building project ideas from scratch.<br><br>⚡ Fun fact: I enjoy turning complex ideas into simple, visual explanations—whether it’s through code, dashboards, or presentations.<br>
 
