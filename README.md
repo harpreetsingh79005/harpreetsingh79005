@@ -11,12 +11,10 @@
 </div>
 
 <br/>
-
 ## What I’m Working On
 
--   **SRM APP** &rarr; For student help.
-
--   **HAND GESTER** &rarr; Building an app To track hand movement.
+* **YOLOv11 Research Project** → Improving camouflaged object detection for military monitoring
+* **Residential Operations Platform** → Building a smart system for managing residential operations efficiently
 
 <br/>
 
