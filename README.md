@@ -22,25 +22,22 @@
 
 <div align="left">
 
-<a href="https://avinav-priyadarshi.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/PORTFOLIO-13AFF0?style=for-the-badge&logo=googleearth&logoColor=white" alt="Portfolio"/>
+<a href="https://www.linkedin.com/in/harpreet-singh-b75759335" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://www.linkedin.com/in/avinav-priyadarshi-45705a2b0/" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-13AFF0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+
+<a href="mailto:harpreet79005@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="mailto:avinavpriyadarshi@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/GMAIL-13AFF0?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://avinav-pri.itch.io/" target="_blank">
-  <img src="https://img.shields.io/badge/ITCH.IO-13AFF0?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io"/>
-</a>
-<a href="https://www.artstation.com/avianvpri5" target="_blank">
-  <img src="https://img.shields.io/badge/ARTSTATION-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation"/>
+
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-FFA500?style=for-the-badge&logo=googleearth&logoColor=white" alt="Portfolio"/>
 </a>
 
 </div>
 
 <br/>
+
 
 ## Tools & Skills
 
