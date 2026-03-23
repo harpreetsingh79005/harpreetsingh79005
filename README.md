@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Harpreet%20Singh&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Data+Analyst;prompt engineer;C%2B%2B+Programmer&font=Fira+Code&center=true&width=600&height=50&color=32CD32&vCenter=true&pause=1000&size=28" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Data+Analyst;promptengineer;C%2B%2B+Programmer&font=Fira+Code&center=true&width=600&height=50&color=32CD32&vCenter=true&pause=1000&size=28" />
 </p>
 
 <br/>
